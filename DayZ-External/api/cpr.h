@@ -1,0 +1,6 @@
+#ifndef CPR_CPR_H
+#define CPR_CPR_H
+
+#define CPR_LIBCURL_VERSION_NUM LIBCURL_VERSION_NUM
+
+#endif

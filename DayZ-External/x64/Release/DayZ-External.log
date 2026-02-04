@@ -1,0 +1,23 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (BAR_V1.vcxproj, ChabRecoded.vcxproj, DayZ-Exeternal 2025.vcxproj, Dayz323.vcxproj, jllll.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  entity.cpp
+C:\Users\Administrator\Desktop\DayZ Steam\DayZ-External\driver\driver.h(51,32): warning C4129: 'p': unrecognized character escape sequence
+  (compiling source file 'hack/entity.cpp')
+  
+C:\Users\Administrator\Desktop\DayZ Steam\DayZ-External\hack\entity.cpp(487,82): warning C4566: character represented by universal-character-name '\u2514' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Desktop\DayZ Steam\DayZ-External\hack\entity.cpp(487,82): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Desktop\DayZ Steam\DayZ-External\hack\entity.cpp(2826,34): warning C4101: 'e': unreferenced local variable
+  GlobalVars.cpp
+  globals.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  main.cpp
+  overlay.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2851 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DayZ-External.vcxproj -> C:\Users\Administrator\Desktop\DayZ Steam\x64\Release\Steam.exe
